@@ -15,6 +15,7 @@ main {
   grid-auto-rows: 550px;
   border-bottom: 1px solid #ddd;
   background-color: #96CEB4;
+  padding: 50px;
 }
 
 .hero-img {
@@ -54,6 +55,7 @@ main {
 .dishes {
   margin: 0;
   background-color: #FFEEAD;
+  padding: 20px;
 }
 .dishes-title {
   color: #333;
@@ -82,6 +84,7 @@ main {
 
 .menu{
     background-color: #FFAD60;
+    padding: 30px;
 }
 
 .menu-title {
